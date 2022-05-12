@@ -5,17 +5,10 @@ estudante <strong>Back-end</strong>.
 
 <p align="left">
 ☕ Habilidades:
-<ul 
-style="list-style: none;
-display: flex;
-flex-wrap: wrap;
-justify-content: flex-start;"
->
+<ul>
 
 <li 
-style="display: flex;
-align-items: center;
-margin: 5px;"
+style="margin: 5px;"
 >
     <img src="./html.png" alt="HTML" style="width: 30px; margin: 5px;"/> HTML5
 </li>
@@ -108,24 +101,12 @@ margin: 5px;"
 
 
 
-    <a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio"
-        style="display: flex;
-        align-items: center;
-        color: white;
-        text-decoration: none;
-        "
-    >
-    <img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
+<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio">
+<img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
 
-    </a>
+</a>
 
-    <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" 
-        style="display: flex;
-        align-items: center;
-        color: white;
-        text-decoration: none;"
-    >
-        <img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
-
-    </a>
+<a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" >
+    <img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
+</a>
 </p>
