@@ -1,16 +1,10 @@
-
-<body>
-<!-- style="background-color: #4d4d4d;
-color: white;"
-> -->
-
-    <p align="left">
+<p align="left">
         🖖 Olá, meu nome é Leonardo. Sou <strong>Front-end developer</strong> e
         estudante <strong>Back-end</strong>.
-    </p>
+</p>
 
-    <p align="left">
-        ☕ Habilidades:
+<p align="left">
+  ☕ Habilidades:
   <ul 
     style="list-style: none;
     display: flex;
@@ -112,7 +106,7 @@ color: white;"
 
 <p align="left">
     
-</body>
+
 
     <a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio"
     style="display: flex;
