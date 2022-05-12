@@ -101,17 +101,13 @@ style="margin: 5px;"
 
 
 
-<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio"
-   style:"display:flex;
-          algin-itens: center;">
+<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio">
 <img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
-Portfolio
+<strong>Portfolio</strong>
 </a>
 
-<a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" 
-   style:"display:flex;
-          algin-itens: center;">
-<img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
-Linkedin    
+<a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" >
+<img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">    
+<strong>Linkedin</strong>    
 </a>
 </p>
