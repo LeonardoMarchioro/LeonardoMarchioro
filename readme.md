@@ -43,7 +43,8 @@ margin: 5px;"
 <li
     style="display: flex;
     align-items: center;
-    margin: 5px;">
+    margin: 5px;"
+>
 
     <img src="./redux.png" alt="Redux" style="width: 30px; margin: 5px;"/> Redux
 </li>
@@ -115,8 +116,8 @@ margin: 5px;"
     text-decoration: none;
     "
 >
-    <img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
-    Portfolio
+<img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
+Portfolio
 </a>
 
 <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" 
@@ -125,7 +126,7 @@ margin: 5px;"
     color: white;
     text-decoration: none;"
 >
-    <img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
-    Linkedin
+<img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
+Linkedin
 </a>
 </p>
