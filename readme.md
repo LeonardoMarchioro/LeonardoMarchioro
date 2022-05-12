@@ -97,17 +97,26 @@ style="margin: 5px;"
 
 <br />
 
-<p align="left">
 
-
-
-<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio">
+<div style="display: flex;
+align-items: center;
+color: white;
+text-decoration: none;
+">
+<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio">    
 <img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
 <strong>Portfolio</strong>
 </a>
-
+</div>
+<div style="display: flex;
+align-items: center;
+color: white;
+text-decoration: none;
+"
+>
 <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" >
 <img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">    
 <strong>Linkedin</strong>    
 </a>
-</p>
+</div>
+
