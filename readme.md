@@ -45,8 +45,7 @@ margin: 5px;"
     align-items: center;
     margin: 5px;"
 >
-
-    <img src="./redux.png" alt="Redux" style="width: 30px; margin: 5px;"/> Redux
+<img src="./redux.png" alt="Redux" style="width: 30px; margin: 5px;"/> Redux
 </li>
 <li
     style="display: flex;
@@ -109,24 +108,24 @@ margin: 5px;"
 
 
 
-<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio"
-    style="display: flex;
-    align-items: center;
-    color: white;
-    text-decoration: none;
-    "
->
-<img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
-Portfolio
-</a>
+    <a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio"
+        style="display: flex;
+        align-items: center;
+        color: white;
+        text-decoration: none;
+        "
+    >
+    <img src="./port.png" alt="Portfolio" style="width: 50px; margin: 5px;">
 
-<a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" 
-    style="display: flex;
-    align-items: center;
-    color: white;
-    text-decoration: none;"
->
-<img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
-Linkedin
-</a>
+    </a>
+
+    <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" 
+        style="display: flex;
+        align-items: center;
+        color: white;
+        text-decoration: none;"
+    >
+        <img src="./linkedin.png" alt="Linkedin" style="width: 50px; margin: 5px;">
+
+    </a>
 </p>
