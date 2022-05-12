@@ -14,8 +14,8 @@ estudante <strong>Back-end</strong>.
 <img src="./redux.png" alt="Redux" style="width: 30px; margin: 5px;"/> Redux &nbsp;
 <img src="./logo192.png" alt="ContextAPI" style="width: 30px; margin: 5px;"/> ContextAPI &nbsp;
 <img src="./stlyedc.png" alt="Styled Components" style="width: 30px; margin: 5px;"/> Styled Components &nbsp;
-<img src="./jsicon.png" alt="Node" style="width: 30px; margin: 5px;"/> NodeJS &nbsp;
     
+<img src="./jsicon.png" alt="Node" style="width: 30px; margin: 5px;"/> NodeJS &nbsp;
 <img src="./express.png" alt="Express" style="width: 30px; margin: 5px;"/> Express &nbsp;
 <img src="./postgresql.webp" alt="PostgreSQL" style="width: 30px; margin: 5px;"/> PostgreSQL &nbsp;
 <img src="./tscript.webp" alt="TypeScript" style="width: 30px; margin: 5px;"/> TypeScript &nbsp;
