@@ -4,7 +4,7 @@ estudante <strong>Back-end</strong>.
 </p>
 
 <p align="justify">
-☕️ Habilidades:
+☕️ Minhas habilidades são:
     
 
 <img src="./html.png" alt="HTML" style="width: 30px; margin: 5px;"/> HTML5 &nbsp;
