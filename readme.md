@@ -23,17 +23,23 @@ estudante <strong>Back-end</strong>.
 
 </p>
 
-
-🔗 Links:
 <br>
-<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio">    
-<strong>Portfolio</strong>
-</a>
 
 <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" >   
-<strong alig>Linkedin</strong>    
+    
+![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+    
 </a>
 
+<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio" target="_blank"> 
+    
+![portfolio](https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white)
+    
+</a>
 
-
+<a href="https://docs.google.com/document/d/1dQY83Ov6R0esQu-IniqmNhrBFRMqTWmK_EuLUor3npY/edit?usp=sharing" alt="Curriculo" >
+    
+![curriculo](https://img.shields.io/badge/Curriculo-F40D12?style=for-the-badge&logo=curriculo&logoColor=white)
+    
+</a>
 
