@@ -1,12 +1,20 @@
-<h1 align="center">Olá 👋, eu sou Leonardo</h1>
-<h3 align="center">Desenvolvedor web front-end e estudante back-end</h3>
+<h1 align="left">Olá 👋, eu sou Leonardo</h1>
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">☕️ Minhas habilidades são:</h3>
+<h3 align="left">Desenvolvedor Front-End e estudante Back-End</h3>
 
-<p align="center"> 
+###
+
+<h3 align="left">✨ <strong>Sobre mim:</strong></h3>
+
+###
+
+<p align="left">Meu contato com tecnologia começou logo na infância com jogos e depois com a internet no querido Orkut, sempre estive relacionado neste mundo mas nunca havia entrado de fato, mas isso mudou quando decidi fazer uma mudança de planos na minha vida em 2020, comecei a estudar por conta própria mas ainda sem uma direção específica e sem uma evolução constante em setembro de 2021 entrei para Kenzie, mudou completamente minha rotina, finalmente consegui achar uma direção e segui-la e finalmente estava vendo meu avanço com o passar dos dias e me identifiquei ainda mais com a programação.</p>
+
+###
+
+<div align="left"> 
     
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -77,8 +85,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> &nbsp;     
 
-</p>
+</div>
 
+<div align="left">&nbsp;
 
 <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" >   
     
@@ -92,3 +101,9 @@
     
 ![curriculo](https://img.shields.io/badge/Curriculo-F40D12?style=for-the-badge&logo=curriculo&logoColor=white)
 </a>
+
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&username=leonardomarchioro" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=leonardomarchioro" height="150" alt="languages graph"  />
+</div>
