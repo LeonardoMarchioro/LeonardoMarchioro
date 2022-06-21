@@ -87,22 +87,26 @@
 
 </div>
 
-<div align="left">&nbsp;
+###
+
+<div align="left">
 
 <a href="https://www.linkedin.com/in/leonardo-marchioro/" alt="Linkedin" >   
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>&nbsp;
     
-![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
-</a>
 <a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio" target="_blank" > 
+<img src="https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white"/> 
+</a>&nbsp;
     
-![portfolio](https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white) 
-</a>
 <a href="https://docs.google.com/document/d/1dQY83Ov6R0esQu-IniqmNhrBFRMqTWmK_EuLUor3npY/edit?usp=sharing" alt="Curriculo" >
-    
-![curriculo](https://img.shields.io/badge/Curriculo-F40D12?style=for-the-badge&logo=curriculo&logoColor=white)
-</a>
+<img src="https://img.shields.io/badge/Curriculo-F40D12?style=for-the-badge&logo=curriculo&logoColor=white"/>
+</a>&nbsp;
 
 </div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&username=leonardomarchioro" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=leonardomarchioro" height="150" alt="languages graph"  />
