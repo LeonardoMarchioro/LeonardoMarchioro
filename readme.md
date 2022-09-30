@@ -95,11 +95,11 @@
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>&nbsp;
     
-<a href="https://portifolio-marchioro.vercel.app/" alt="Portfolio" target="_blank" > 
+<a href="https://leonardomarchioro.vercel.app/" alt="Portfolio" target="_blank" > 
 <img src="https://img.shields.io/badge/portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white"/> 
 </a>&nbsp;
     
-<a href="https://docs.google.com/document/d/1dQY83Ov6R0esQu-IniqmNhrBFRMqTWmK_EuLUor3npY/edit?usp=sharing" alt="Curriculo" >
+<a href="https://docs.google.com/document/d/1QfySXkHCE5953Bx7tECI8DtFO1YLb0UtQljAP5q987k/edit?usp=sharing" alt="Curriculo" >
 <img src="https://img.shields.io/badge/Curriculo-F40D12?style=for-the-badge&logo=curriculo&logoColor=white"/>
 </a>&nbsp;
 
