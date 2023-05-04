@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor Front-End e estudante Back-End</h3>
+<h3 align="left">Desenvolvedor Full-stack</h3>
 
 ###
 
